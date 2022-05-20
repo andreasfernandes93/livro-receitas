@@ -9,6 +9,7 @@ Olá, Bem vindo ao meu livro de receitas virtual! :wave:
 * Doce;
 
 * Teste;
+* Modificações aceitas
 * Mudança feita no github
 
   
